@@ -24,3 +24,14 @@ UCI web site:
   8. Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 
   9. Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+-------------------------------------------------------------------------------------------------------------
+## Summary
+1. Download Dataset
+2. Load data and extract data from 2007-2-1 to 2007-2-2
+3. Modify variables classes appropriate for making plots
+4. Make plots and save plots
+
+## Problem
+In plot3 and plot4, legend in PNG file is cut off...please look at my PNG file.
+In window screen, there is no problem at legend, but when I save images, problem happens.
+I think problem appears when setting images for certain size.
